@@ -1,6 +1,6 @@
 # About me
 
-I'm a energy economics master graduate and very interested to enhance my coding skills in any way.
+I'm an energy economics master graduate and very interested to enhance my coding skills in any way.
 
 I'm currently working on an ETL energy data project to combine different skill sets into one coherent project.
 
